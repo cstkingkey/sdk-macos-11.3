@@ -44,6 +44,7 @@ cp -R ../../System/Library/Frameworks/Carbon.framework/Frameworks/OpenScripting.
 cp -R ../../System/Library/Frameworks/Carbon.framework/Frameworks/Print.framework/Versions/Current/Headers Print
 cp -R ../../System/Library/Frameworks/Carbon.framework/Frameworks/SecurityHI.framework/Versions/Current/Headers SecurityHI
 cp -R ../../System/Library/Frameworks/Carbon.framework/Frameworks/SpeechRecognition.framework/Versions/Current/Headers SpeechRecognition
+cp -R ../../System/Library/Frameworks/Carbon.framework/Frameworks/Ink.framework/Versions/Current/Headers Ink
 
 cp -R ../../System/Library/Frameworks/IOKit.framework/Versions/Current/Headers IOKit
 cp -R ../../System/Library/Frameworks/CoreFoundation.framework/Versions/Current/Headers CoreFoundation
